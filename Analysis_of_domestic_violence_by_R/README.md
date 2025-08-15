@@ -41,7 +41,15 @@
 
 ----------------------------------------------------------------------------------------
 
-运行前，请先将 ABS 2021 Census 数据包 解压至本项目根目录下，将调用以下文件：
+## 数据准备
+数据文件已上传至Google Drive,运行前请先下载并解压以下数据文件：
+
+- **[LGA_2024_AUST_GDA2020.zip](https://drive.google.com/drive/folders/15Y46Ru7tBvsxV-_kZPZuk__Ll_L6Ao9-)**  
+  来源：ABS 澳大利亚统计局，包含 LGA 边界 Shapefile 数据。
+
+- **[2021_TSP_LGA_for_NSW_short-header.zip](https://drive.google.com/drive/folders/15Y46Ru7tBvsxV-_kZPZuk__Ll_L6Ao9-)**  
+  来源：ABS 2021 人口普查（Census）LGA 数据，包含以下 CSV 文件：
+  
 
 2021_TSP_LGA_for_NSW_short-header/2021 Census TSP Local Government Areas for NSW/2021Census_T01_NSW_LGA.csv
 
@@ -53,6 +61,3 @@
 
 2021_TSP_LGA_for_NSW_short-header/2021 Census TSP Local Government Areas for NSW/2021Census_T18A_NSW_LGA.csv
 
---------------------------------------------------------------------------------------------
-
-请将 LGA_2024_AUST_GDA2020 地理位置文件解压至本项目根目录下
