@@ -52,3 +52,7 @@
 2021_TSP_LGA_for_NSW_short-header/2021 Census TSP Local Government Areas for NSW/2021Census_T33H_NSW_LGA.csv
 
 2021_TSP_LGA_for_NSW_short-header/2021 Census TSP Local Government Areas for NSW/2021Census_T18A_NSW_LGA.csv
+
+--------------------------------------------------------------------------------------------
+
+请将 LGA_2024_AUST_GDA2020 地理位置文件解压至本项目根目录下
